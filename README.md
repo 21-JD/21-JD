@@ -7,7 +7,7 @@
 
 ## <picture><img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width = 200px></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width = 250px></picture>
 <br>
 
 - A passionate Self-learning Data-Scientist
